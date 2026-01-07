@@ -1,10 +1,12 @@
-
+<div align="center">
 # 🔄 X to Mastodon Sync Bot
 
 Automatically sync your X (Twitter) posts to Mastodon. 
 
 [![Node.js](https://img.shields.io/badge/Node.js-18+-green?style=flat-square&logo=node.js)](https://nodejs.org/) [![Mastodon](https://img.shields.io/badge/Mastodon-API%20v2-6364FF?style=flat-square&logo=mastodon)](https://joinmastodon.org/) [![License](https://img.shields.io/badge/License-GPL--3.0-blue?style=flat-square)](LICENSE) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg?style=flat-square)](https://github.com/USERNAME/x-to-mastodon-bot/graphs/commit-activity)
 
+![Banner](./assets/banner.png)
+</div>
 ## ✨ Features
 
 - 🔄 **Auto sync** — New posts are automatically sent to Mastodon
