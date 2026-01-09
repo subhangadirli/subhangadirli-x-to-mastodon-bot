@@ -15,7 +15,7 @@ const isCI = process.env. CI === 'true' || process.argv.includes('--once');
 
 const CONFIG = {
   feed: {
-    url: 'https://rss.app/feeds/v1.1/HoeTCauPEPrGkHB9. json',
+    url: 'https://rss.app/feeds/v1.1/HoeTCauPEPrGkHB9.json',
     checkInterval: 2 * 60 * 1000,
   },
   mastodon: {
